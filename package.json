@@ -1,6 +1,6 @@
 {
-  "homepage": "http://saajanjoshi.github.io/PortfolioSite",
-  "name": "myportfolio",
+  "homepage": "http://saajanjoshi.github.io",
+  "name": "Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
