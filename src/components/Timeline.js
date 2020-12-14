@@ -29,7 +29,7 @@ class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Software Engineer at Javra Software{" "}
-                          <span>March 2017-</span>
+                          <span>March 2017-Present</span>
                         </h2>
                         <p>
                           <ul>
