@@ -28,42 +28,23 @@ class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Software Engineer 1 at Axxess{" "}
-                          <span>November 2019-March 2020</span>
+                          Software Engineer at Javra Software{" "}
+                          <span>March 2017-</span>
                         </h2>
                         <p>
-                          I started working as a Software Engineer at Axxess.
-                          During my time period, I learned about enterprise
-                          level application development and worked on different
-                          technologies. I was mainly a part of Front End
-                          Application team for a product called Axxess. My
-                          day-to-day activity would include bug fixes, feature
-                          development, code reviews and metoring interns.
-                        </p>
-                      </div>
-                    </div>
-                  </article>
-                  <article
-                    className="timeline-entry animate-box"
-                    data-animate-effect="fadeInLeft"
-                  >
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-3">
-                        <i className="icon-pen2" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2>
-                          Graduate Assistant at Villanova University{" "}
-                          <span>August 2017-May 2020</span>
-                        </h2>
-                        <p>
-                          I joined Villanova University as a Graduate student in
-                          2017 and graduated during May of 2020 this year. I
-                          pursued my Master's in Software Engineering here.I
-                          have taken courses like Software Engineering, Database
-                          Management System, Requirement Engineering, Software
-                          Design & Evolution, Software Studio and some othere
-                          courses here. My overall GPA is 3.77.
+                          <ul>
+                          <li>Design and develop a communication module to communicate between systems.</li>
+                          <li>Research in platform modules, design patterns and software architecture.</li>
+                          <li>Provide solutions for design and logic implementation in projects.</li>
+                          <li>Create designs, flowcharts and algorithms for APIs' and methods.</li>
+                          <li>Write unit tests for modules</li>
+                          <li>Worked with a client onshore in Netherland on July 2019, migrating current system to SAP platform.</li>
+                          <li>Worked in ERP platform developed by JAVRA, implemented several features such as dynamic pagination, charts, rich text editor and stabilizing the platform.</li>
+                          <li>Proficient in GIT implementation</li>
+                          <li>Deployment of codes through CI/CD.</li>
+                          <li>Create technical and functional document of project.</li>
+                          <li>Provide daily updates on the project which includes achievement, obstruction and to-do task discussion.</li>
+                          </ul>
                         </p>
                       </div>
                     </div>
@@ -86,9 +67,9 @@ class Timeline extends Component {
                           Electronics & Communication Engineering. I took
                           courses like C,C++,Microprocessor, Digitial Signal
                           Processing. I was also leading member of the
-                          Electronics Engineering Society. I also was part of
+                          Electronics Engineering Society. I was also part of
                           Robotics Association of Nepal which is a non-profit
-                          organization during my final year. My GPA was 3.7.
+                          organization during my final year. My GPA was 3.2.
                         </p>
                       </div>
                     </div>
