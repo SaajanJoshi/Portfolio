@@ -16,7 +16,15 @@ class About extends Component {
                     <div className="about-desc">
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
-                      
+                      <p className="textjustify">
+                      I am a proactive professional having 3+ years of experience as software engineer. During my time as software engineer, I have learned a lot: requirement analysis,
+                      design,development and deployment. I have always enjoyed solving logical problems: it extends the learning curve, and programming is best 
+                      platform to exploit it. I believe that sharing knowledge with each other is best way to teach each other and is the best form of the human kind. 
+                      So, being positive is the best way to move forward.
+                      </p>  
+                      <p className="textjustify">
+                      Beside programming , I like playing console games, watching and playing football and binge watching movies/series on netflix. 
+                      </p>
                     </div>
                   </div>
                 </div>
