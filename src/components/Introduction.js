@@ -25,7 +25,7 @@ class Introduction extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href=""
+                              href="https://github.com/SaajanJoshi/portfolio/blob/master/Resume/SAAJAN-N.-JOSHI.pdf"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
