@@ -94,10 +94,11 @@ figure {
       transform: translateX(-300px);
       padding-top: 4em; } }
   #colorlib-aside .author-img {
-    width: 160px;
+    width: 135px;
     height: 160px;
     margin: 0 auto;
     margin-bottom: 30px;
+    background-color: #f2f3f7;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
