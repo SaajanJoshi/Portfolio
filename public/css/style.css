@@ -1429,3 +1429,6 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+.textjustify {
+  text-align: justify;
+}  

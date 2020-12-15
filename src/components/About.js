@@ -43,7 +43,7 @@ class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>Api and web development </h3>
-                    <p>
+                    <p className="textjustify">
                       I have got experience in developing API using Progress 4gl.
                       Moreover,I am also familiar with frontend such as react.js, jQuery
                       and backend such as python as well.
@@ -58,7 +58,7 @@ class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>
+                    <p className="textjustify">
                       I have a good grasp of the fundamentals of Data Structure
                       and Algorithm.It is really important to optimize our code
                       and to do so, we should have a very good knowledge of DSA.
@@ -75,7 +75,7 @@ class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>Software Engineering/Database</h3>
-                    <p>
+                    <p className="textjustify">
                       I also have knowledge of how the software should be
                       developed beginning from the requirement phase to the
                       deployment phase.I have worked in an Agile Environment
