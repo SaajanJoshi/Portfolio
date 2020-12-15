@@ -25,7 +25,7 @@ class Introduction extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href="https://github.com/Pourush1/MyPortfolio/blob/master/public/assets/Pourush Software Engineer Resume.pdf"
+                              href=""
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -53,7 +53,7 @@ class Introduction extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href="https://github.com/Pourush1"
+                              href="https://github.com/SaajanJoshi"
                               target="_blank"
                               rel="noopener noreferrer"
                             >

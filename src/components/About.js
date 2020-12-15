@@ -16,31 +16,7 @@ class About extends Component {
                     <div className="about-desc">
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
-                      <p>
-                        I am a Software Engineer who just finished his Master’s
-                        in Software Engineering at Villanova University.
-                      </p>
-                      <p>
-                        I am a dedicated and enthusiastic professional who loves
-                        programming. I have 2+ years of experience as a Software
-                        Engineer/ Web Developer.I have always loved making
-                        software. Making software is hard and doing it in the
-                        right way, is even harder. So, I try to follow the best
-                        Software practices to do my tasks in the real world. I
-                        beleive that we are always learning, so I try to learn
-                        everyday from my colleagues as well as from anyone I can
-                        and vice-versa. I believe that sharing knowledge with
-                        each other is best way to teach each other and is the
-                        best form of the human kind. So, being positive is the
-                        best way to move forward.{" "}
-                      </p>
-                      <p>
-                        Besides, getting my hands on making software, I like to
-                        use my free time by playing Soccer, dancing and doing
-                        gym. To improve on dancing, I even joined a dancing
-                        club. I believe one should be happy in whatever he is
-                        doing and dancing makes me really happy.
-                      </p>
+                      
                     </div>
                   </div>
                 </div>
@@ -66,13 +42,11 @@ class About extends Component {
                     <i className="icon-bulb" />
                   </span>
                   <div className="desc">
-                    <h3>Web Development </h3>
+                    <h3>Api and web development </h3>
                     <p>
-                      I have experience of building a full-stack website using
-                      JavaScript(FrontEnd- React.js) and BackEnd(Node.js) I have
-                      also experience in deploying the website using Heroku and
-                      AWS. I am also knowledgeable in other front-end technology
-                      like (Aurelia Js).
+                      I have got experience in developing API using Progress 4gl.
+                      Moreover,I am also familiar with frontend such as react.js, jQuery
+                      and backend such as python as well.
                     </p>
                   </div>
                 </div>
