@@ -29,7 +29,7 @@ class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Associate Sr. Software Engineer at Javra Software{" "}
-                          <span>March 2022- July 2022</span>
+                          <span>March 2022 - July 2022</span>
                         </h2>
                         <p>
                           <ul>
@@ -59,7 +59,7 @@ class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Software Engineer at Viveka Services{" "}
-                          <span>Feb 2021-Feb 2022</span>
+                          <span>Feb 2021 - Feb 2022</span>
                         </h2>
                         <p>
                           <ul>
@@ -88,7 +88,7 @@ class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Software Engineer at Javra Software{" "}
-                          <span>March 2017-Jan 2021</span>
+                          <span>March 2017 - Jan 2021</span>
                         </h2>
                         <p>
                           <ul>
