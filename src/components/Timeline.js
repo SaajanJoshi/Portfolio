@@ -145,7 +145,7 @@ class Timeline extends Component {
                         The Post Graduate Certification in Full Stack Software Development from Lambton College provides understanding of both front-end and back-end web development. 
                         Frontend: HTML5, CSS3, JavaScript, jQuery, Bootstrap, and React for creating user interfaces. 
                         Server-side programming languages and frameworks : Java, C# .NET, Python, and Node.js for developing the business logic layer. 
-                        The program also covers database technologies including SQL, NoSQL, and MongoDB. With a focus on real-world projects, students develop problem-solving and critical thinking skills, enabling them to design, develop, and implement database-driven enterprise web applications.
+                        The program also covers database technologies including SQL, NoSQL, and MongoDB. With a focus on real-world projects, develop problem-solving and critical thinking skills, enabling them to design, develop, and implement database-driven enterprise web applications.
                         </p>
                       </div>
                     </div>
