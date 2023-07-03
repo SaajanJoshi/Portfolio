@@ -17,14 +17,10 @@ class Introduction extends Component {
                   <div className="row">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
-                        <div className="desc">
-                          <h1>
-                            Hi! <br />
-                            This is Saajan
-                          </h1>
+                        <div className="desc" style={{marginTop:120}}>
                           <p>
                             <a
-                              className="btn btn-primary btn-learn"
+                              className="btn btn-primary btn-learn "
                               href="https://github.com/SaajanJoshi/portfolio/blob/master/Resume/SAAJAN-N.-JOSHI.pdf"
                               target="_blank"
                               rel="noopener noreferrer"
@@ -33,23 +29,6 @@ class Introduction extends Component {
                               <i className="icon-download4" />
                             </a>
                           </p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </li>
-              <li style={{ backgroundImage: "url(images/test.jpg)" }}>
-                <div className="overlay" />
-                <div className="container-fluid">
-                  <div className="row">
-                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
-                      <div className="slider-text-inner">
-                        <div className="desc">
-                          <h1>
-                            I love building
-                            <br /> THINGS !!
-                          </h1>
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
